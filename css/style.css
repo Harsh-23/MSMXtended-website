@@ -1,0 +1,142 @@
+        body {
+            background-color: #16202a;
+            font-family: 'Ubuntu Mono', monospace;
+        }
+        
+        .main-bg {
+            background-color: #16202a;
+        }
+        
+        .main-bg2 {
+            background-color: #11181f;
+        }
+        
+        .dark-text {
+            color: #16202a;
+        }
+        
+        .card {
+            background-color: #11181f;
+            border-radius: 12px;
+        }
+        
+        .card-action {
+            border-radius: 12px;
+        }
+        
+        .icon-block {
+            padding: 0 15px;
+        }
+        
+        .icon-block .material-icons {
+            font-size: inherit;
+        }
+        
+        .primary-color {
+            color: #f50555;
+        }
+        
+        .primary-color-bg {
+            background-color: #f50555;
+        }
+        
+        .gradient-nav {
+            background: linear-gradient(to bottom, #f50555, #f42d40);
+        }
+        
+        .gradient-text {
+            color: linear-gradient(to right, #f50555, #f42d40);
+        }
+        
+        .color-nav {
+            height: 90px;
+            background: linear-gradient(to bottom, #f50555, #f42d40);
+        }
+        
+        .border-button {
+            margin-top: 1rem;
+            font-weight: 800;
+            border-radius: 12px;
+        }
+        
+        .divider {
+            margin-top: 4rem;
+            margin-bottom: 4rem;
+            background-color: #ffffff2c;
+        }
+        
+        .landing {
+            margin-top: 2.5rem;
+            background: #16202a;
+            padding: 3rem;
+        }
+        
+        .hero-img img {
+            width: 90%;
+        }
+        
+        .hero-text {
+            margin-top: 10rem;
+            text-align: center;
+            color: whitesmoke;
+        }
+        
+        .hero-text h1 {
+            font-size: 4rem;
+            margin-bottom: 0;
+        }
+        
+        .hero-text h5 {
+            margin-bottom: 1.5rem;
+        }
+        
+        .hero-img p {
+            font-size: 1.3rem;
+        }
+        
+        .catergory-title {
+            font-weight: 600;
+            background: -webkit-linear-gradient(#f50555, #f42d40);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        
+        .carousel {
+            margin-top: 0rem;
+            margin-bottom: 2rem;
+        }
+        
+        .carousel-item {
+            width: 50vw;
+        }
+        
+        .nav-footer {
+            position: fixed;
+            bottom: 10;
+        }
+        
+        @media screen and (max-width: 700px) {
+            .color-nav {
+                height: 70px;
+                background: linear-gradient(to bottom, #f50555, #f42d40);
+            }
+            .landing {
+                margin-top: 0rem;
+                padding: 2rem;
+            }
+            .hero-img {
+                text-align: center;
+            }
+            .hero-text {
+                margin-top: 0;
+            }
+            .hero-text h1 {
+                font-size: 2.5rem;
+            }
+            .hero-text h5 {
+                font-size: 1.5rem;
+            }
+            .ss-carousel {
+                margin-top: 85px;
+            }
+        }
