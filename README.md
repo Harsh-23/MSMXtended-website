@@ -2,7 +2,7 @@
 Official website of MSM-Xtended custom ROM.
 
 <h2>Link</h2>
-<p><a href="https://harshv23.cf/MSMXtended-Website/">View on Github pages</a></p>
+<p><a href="https://harshv23.cf/MSMXtended-website">View on Github pages</a></p>
 <p><a href="#">Official website (will be updated soon)</a></p>
 
 <h2>Screenshots</h2>
