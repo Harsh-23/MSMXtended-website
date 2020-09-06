@@ -18,6 +18,10 @@ nav .sidenav-trigger i {
     padding-bottom: 25px;
 }
 
+.card .card-action:last-child {
+    border-radius: 0 0 12px 12px;
+}
+
 .big-icon {
     font-size: 65px;
 }
@@ -105,8 +109,14 @@ nav .sidenav-trigger i {
     margin-top: 1rem;
 }
 
+.drawer-img {
+    width: 300px;
+}
+
 .features-card {
     padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
     padding-top: 10px;
 }
 
@@ -205,6 +215,10 @@ nav .sidenav-trigger i {
     color: #ffcdd1;
     font-size: 20px;
     font-weight: 600;
+}
+
+.padding-top {
+    padding-top: 11px;
 }
 
 .primary-color {
